@@ -32,11 +32,11 @@ The goal is to enhance **transparency, storytelling, and enjoyment**—turning e
 
 | Task | Description | Responsible |
 | :-- | :-- | :-- |
-| AR Experience Design | Storyboarding and interaction flow for dining sequence | [Name] |
-| 3D Asset Generation | Generating food models and animations using Kaedim/Spline/Blender AI | [Name] |
-| Unity AR Development | Implementing AR Foundation, spatial anchoring, and Quest 2 deployment | [Name] |
-| AI Integration | Linking generative AI tools and backend for content loading | [Name] |
-| Testing and Documentation | Performance tests, feedback collection, and report writing | [Name] |
+| AR Experience Design | Storyboarding and interaction flow for dining sequence | Prakash Karkee |
+| 3D Asset Generation | Generating food models and animations using Kaedim/Spline/Blender AI | Prakash Karkee |
+| Unity AR Development | Implementing AR Foundation, spatial anchoring, and Quest 2 deployment | Prakash Karkee |
+| AI Integration | Linking generative AI tools and backend for content loading | Prakash Karkee |
+| Testing and Documentation | Performance tests, feedback collection, and report writing | Prakash Karkee |
 
 
 ***
